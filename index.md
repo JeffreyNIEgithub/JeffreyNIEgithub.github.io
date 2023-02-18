@@ -5,7 +5,7 @@
 GitHub 主页：[@Nie-Shuai](https://github.com/ShuaiNIEgithub)  
 Researchgate 主页: https://www.researchgate.net/
 
-<img width="200" alt="profile" src="https://upload-images.jianshu.io/upload_images/18241326-2ed9da912409007e.jpg">
+<img width="200" alt="profile" src="https://github.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/blob/main/pictures/p5.jpg">
 
 ### 联系方式
 
