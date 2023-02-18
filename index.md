@@ -5,7 +5,7 @@
 GitHub 主页：[@Nie-Shuai](https://github.com/ShuaiNIEgithub)  
 Researchgate 主页: https://www.researchgate.net/
 
-<img width="200" alt="profile" src="https://github.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/blob/main/pictures/p5.jpg">
+<img width="200" alt="profile" src="https://raw.githubusercontent.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/main/pictures/p5.jpg">
 
 ### 联系方式
 
@@ -37,7 +37,7 @@ ______________________________________________________________
 
    作为观赏园艺植物，杜鹃花具有极其多样性的花色变异，以红色、白色、黄色系为主。杜鹃花还具有广泛的自然杂交和悠久的人工选育历史，在世界范围内建立了较高的知名度和庞大的产业链。在西方园林界，有一句名言一直被广为流传：“没有中国的杜鹃花，就没有西方园林的丰富多彩。”十九世纪初西方开始从我国引入杜鹃花，因其繁复的花色与优美的花型，一度引起了全球园林界的轰动。历经近两百年发展至今，杜鹃花的热度仍旧不减当年，现在几乎所有的西方园林造景都会栽植杜鹃花，甚至私人庭院里也处处可见，可以说中国杜鹃花深刻地影响和塑造了西方园林界的发展与引种选育的方向。
  <div align=center>
-   <img width="400" alt="研究对象：羊踯躅杜鹃花（Rhododendron molle）和映山红杜鹃花（Rhododendron simsii）" src="https://github.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/blob/main/pictures/p1.jpg">
+   <img width="400" alt="研究对象：羊踯躅杜鹃花（Rhododendron molle）和映山红杜鹃花（Rhododendron simsii）" src="https://raw.githubusercontent.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/main/pictures/p1.jpg">
 </div>
    近年来，杜鹃花被广泛应用于我国的城乡园林绿化和盆栽观赏等方面，是促进生态文明建设的重要一环。然而从杜鹃花产业发展角度看，我国杜鹃花仍存在着应用品种单一和依赖国外进口等问题，国内杜鹃花育种总体尚处于相对落后的起步阶段。尽管有多达数万个花色各异的栽培品种，杜鹃花花色形成遗传机制的研究还非常欠缺，限制了杜鹃花高效育种体系的建立与完善，这在整个全球杜鹃花育种业内是普遍存在的问题。而从更宏观的角度来看，现代育种学在经历了驯化育种和遗传育种时期之后，在分子生物学和基因组学助推之下，已经进入了分子育种时期。这无疑给中国杜鹃花的研究与应用提供了一个不可多得的契机，即利用分子育种的技术进步推动杜鹃花新一代育种的产业发展，从而达到世界杜鹃花研究应用的领先水平。以杜鹃花为研究对象，我们完成了三个连续性的重要工作，并将主要结果发表在主流学术期刊上。
   
@@ -47,7 +47,7 @@ ______________________________________________________________
 - 2. 识别了开花时间和花色相关的重要代谢调控通路，并阐述了基因重复在其中的重要推动作用；
 - 3. 利用基于时间序列的基因共表达分析，揭示出与花色决定相关的等级基因调控网络，检测到MYB、bHLH和WD40三个转录因子家族成员可能构成复合体从而共同决定着花色形成。  
  <div align=center>
- <img width="800" alt="图3. 第一步骤工作的主要研究进展" src="https://github.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/blob/main/pictures/p2.jpg">
+ <img width="800" alt="图3. 第一步骤工作的主要研究进展" src="https://raw.githubusercontent.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/main/pictures/p2.jpg">
  </div>
 
 2020年10月，该研究以[Chromosome-level genome assembly of a parent species of widely cultivated azaleas](https://www.nature.com/articles/s41467-020-18771-4)为题目发表在《**Nature Communications**》杂志。共同第一作者为植物所杨福生副研究员与聂帅。
@@ -59,7 +59,7 @@ ______________________________________________________________
 - 3. 通过整合基因组、转录组和代谢组学等多组学数据，该研究揭示出类胡萝卜素和黄酮醇是黄色花形成的关键色素。种间花色的变异在共表达调控网络上呈现出了显著的保守性和特异性。
  
 <div align=center>
-<img width="800" alt="图3. 第二步骤工作的主要研究进展" src="https://github.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/blob/main/pictures/p3.jpg">
+<img width="800" alt="图3. 第二步骤工作的主要研究进展" src="https://raw.githubusercontent.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/main/pictures/p3.jpg">
 </div>  
 
 2023年1月，该研究以[Gapless genome assembly of azalea and multi-omics investigation into divergence between two species with distinct flower color](https://academic.oup.com/hr/article/10/1/uhac241/6775201)为题发表于《**Horticulture Research**》。聂帅为本文唯一第一作者。
@@ -71,7 +71,7 @@ ______________________________________________________________
 - 2. 在多倍体化后检测到大量的谱系特异性的基因丢失，而这些基因的丢失可能与特定类群的功能有关联。这为古异源多倍化识别与物种分化提出了新的观点。
 
  <div align=center>
-<img width="800" alt="图4. 第三步骤工作的主要研究进展" src="https://github.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/blob/main/pictures/p4.jpg">
+<img width="800" alt="图4. 第三步骤工作的主要研究进展" src="https://raw.githubusercontent.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/main/pictures/p4.jpg">
 </div>  
 
 2022年11月，该研究的主要结果于发表于《**Frontiers in Plant Science**》，题为[Potential allopolyploid origin of Ericales revealed with gene-tree reconciliation](https://www.frontiersin.org/articles/10.3389/fpls.2022.1006904/full)。聂帅为共同第一作者排名第一。
