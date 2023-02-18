@@ -2,10 +2,10 @@
 
 一个有点意思的植物研究爱好者
 
+<img width="200" alt="profile" src="https://raw.githubusercontent.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/main/pictures/p5.jpg">
+
 GitHub 主页：[@Nie-Shuai](https://github.com/ShuaiNIEgithub)  
 Researchgate 主页: https://www.researchgate.net/
-
-<img width="200" alt="profile" src="https://raw.githubusercontent.com/JeffreyNIEgithub/JeffreyNIEgithub.github.io/main/pictures/p5.jpg">
 
 ### 联系方式
 
