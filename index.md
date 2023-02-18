@@ -80,9 +80,9 @@ ______________________________________________________________
 
 共发表文章16篇，第一作者三篇，累计影响因子93.29；累计引用次数185。
 
-1.	Yang, F. S., **Nie, S.**, Liu, H., Shi, T. L., Tian, X. C., Zhou, S. S., Bao, Y. T., Jia, K. H., Guo, J. F., Zhao, W., An, N., Zhang, R. G., Yun, Q. Z., Wang, X. Z., Mannapperuma, C., Porth, I., El-Kassaby, Y. A., Street, N. R., Wang, X. R., Van de Peer, Y., … Mao, J. F. (2020). Chromosome-level genome assembly of a parent species of widely cultivated azaleas. Nature communications, 11(1), 5269. https://doi.org/10.1038/s41467-020-18771-4； (共同一作排名第二)
+-	Yang, F. S., **Nie, S.**, Liu, H., Shi, T. L., Tian, X. C., Zhou, S. S., Bao, Y. T., Jia, K. H., Guo, J. F., Zhao, W., An, N., Zhang, R. G., Yun, Q. Z., Wang, X. Z., Mannapperuma, C., Porth, I., El-Kassaby, Y. A., Street, N. R., Wang, X. R., Van de Peer, Y., … Mao, J. F. (2020). Chromosome-level genome assembly of a parent species of widely cultivated azaleas. Nature communications, 11(1), 5269. https://doi.org/10.1038/s41467-020-18771-4； (共同一作排名第二)
  
-2.	**Shuai Nie**, Shi-Wei Zhao, Tian-Le Shi, Wei Zhao, Ren-Gang Zhang, Xue-Chan Tian, Jing-Fang Guo, Xue-Mei Yan, Yu-Tao Bao, Zhi-Chao Li, Lei Kong, Hai-Yao Ma, Zhao-Yang Chen, Hui Liu, Yousry A El-Kassaby, Ilga Porth, Fu-Sheng Yang, Jian-Feng Mao, Gapless genome assembly of azalea and multi-omics investigation into divergence between two species with distinct flower color, Horticulture Research, 2022;, uhac241, https://doi.org/10.1093/hr/uhac241; (第一作者)
+-	**Shuai Nie**, Shi-Wei Zhao, Tian-Le Shi, Wei Zhao, Ren-Gang Zhang, Xue-Chan Tian, Jing-Fang Guo, Xue-Mei Yan, Yu-Tao Bao, Zhi-Chao Li, Lei Kong, Hai-Yao Ma, Zhao-Yang Chen, Hui Liu, Yousry A El-Kassaby, Ilga Porth, Fu-Sheng Yang, Jian-Feng Mao, Gapless genome assembly of azalea and multi-omics investigation into divergence between two species with distinct flower color, Horticulture Research, 2022;, uhac241, https://doi.org/10.1093/hr/uhac241; (第一作者)
  
 -	**Nie, S.**, Tian, X. C., Kong, L., Zhao, S. W., Chen, Z. Y., Jiao, S. Q., El-Kassaby, Y. A., Porth, I., Yang, F. S., Zhao, W., & Mao, J. F. (2022). Potential allopolyploid origin of Ericales revealed with gene-tree reconciliation. Frontiers in plant science, 13, 1006904. https://doi.org/10.3389/fpls.2022.1006904 (共同一作排名第一)
  
