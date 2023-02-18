@@ -24,7 +24,7 @@ Researchgate 主页: https://www.researchgate.net/
 - 2012.07 - 2016.06 山东农业大学 园林专业 学士 曾获山东省优秀毕业生称号
 
 
-### 科研内容	
+### 科研内容	
 
 - **围绕杜鹃花基因组及花色多样性开展的系列工作**。包括：1.完成了黄花红花两种杜鹃花的高质量基因组组装注释，并探索了种间基因组变异的模式；2.基于代谢组学明晰了花青素在杜鹃花色变异中的重要作用，并解析了花青素、类胡萝卜素和叶绿素的合成通路；3.基于转录组学探讨了时间序列下花瓣组织中色素形成的潜在转录调控机制；4.解析了杜鹃花目类群古老异源多倍化起源的系统发育问题。
 	**围绕翅果油基因组及全基因组复制事件开展的系列工作**。包括：1.完成了濒危树种翅果油的高质量基因组组装和注释；2.探究了其反复全基因组加倍事件的发生以及其后二倍化过程的复杂演化历史，及其对树种濒危化造成的潜在负面影响。
@@ -42,7 +42,7 @@ Researchgate 主页: https://www.researchgate.net/
 - 2. 识别了开花时间和花色相关的重要代谢调控通路，并阐述了基因重复在其中的重要推动作用；
 - 3. 利用基于时间序列的基因共表达分析，揭示出与花色决定相关的等级基因调控网络，检测到MYB、bHLH和WD40三个转录因子家族成员可能构成复合体从而共同决定着花色形成。
 [图2. 第一步骤工作的主要研究进展](https://github.com/JeffreyNIEgithub/ShuaiNie.github.io/blob/main/pictures/p2.png)
-2020年10月，该研究以“[Chromosome-level genome assembly of a parent species of widely cultivated azaleas]”(https://www.nature.com/articles/s41467-020-18771-4)为题目发表在《**Nature Communications**》杂志。共同第一作者为植物所杨福生副研究员与聂帅。
+2020年10月，该研究以[Chromosome-level genome assembly of a parent species of widely cultivated azaleas](https://www.nature.com/articles/s41467-020-18771-4)为题目发表在《**Nature Communications**》杂志。共同第一作者为植物所杨福生副研究员与聂帅。
 
 #################################
 在**第二阶段**的工作中，我们继续锁定杜鹃花的花色多样性研究。选择了羊踯躅杜鹃花作为研究对象，羊踯躅是一种独具特色的中国黄花杜鹃花，其于1832年最早被西方园林界引入，如今以它为亲本选育的被欧洲园林界称为“最美杜鹃”的杂交品种已遍布西方园林。但长久以来，学术界在羊踯躅分子生物学领域上的研究一直都是相对滞后的。该研究完成了杜鹃花研究中的三个主要创新：
@@ -51,7 +51,7 @@ Researchgate 主页: https://www.researchgate.net/
 - 3. 通过整合基因组、转录组和代谢组学等多组学数据，该研究揭示出类胡萝卜素和黄酮醇是黄色花形成的关键色素。种间花色的变异在共表达调控网络上呈现出了显著的保守性和特异性。
 
 [图3. 第二步骤工作的主要研究进展](https://github.com/JeffreyNIEgithub/ShuaiNie.github.io/blob/main/pictures/p3.jpg)
-2023年1月，该研究以“[Gapless genome assembly of azalea and multi-omics investigation into divergence between two species with distinct flower color](https://academic.oup.com/hr/article/10/1/uhac241/6775201)“为题发表于《**Horticulture Research**》。聂帅为本文唯一第一作者。
+2023年1月，该研究以[Gapless genome assembly of azalea and multi-omics investigation into divergence between two species with distinct flower color](https://academic.oup.com/hr/article/10/1/uhac241/6775201)为题发表于《**Horticulture Research**》。聂帅为本文唯一第一作者。
 
 
 #################################
@@ -62,7 +62,7 @@ Researchgate 主页: https://www.researchgate.net/
 
 
 [图4. 第三步骤工作的主要研究进展](https://github.com/JeffreyNIEgithub/ShuaiNie.github.io/blob/main/pictures/p4.jpg)
-2022年11月，该研究的主要结果于发表于《**Frontiers in Plant Science**》，题为“[Potential allopolyploid origin of Ericales revealed with gene-tree reconciliation](https://www.frontiersin.org/articles/10.3389/fpls.2022.1006904/full)”。聂帅为共同第一作者排名第一。
+2022年11月，该研究的主要结果于发表于《**Frontiers in Plant Science**》，题为[Potential allopolyploid origin of Ericales revealed with gene-tree reconciliation](https://www.frontiersin.org/articles/10.3389/fpls.2022.1006904/full)。聂帅为共同第一作者排名第一。
 
 ### 近五年发表的文章
 
